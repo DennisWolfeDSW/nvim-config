@@ -1,7 +1,7 @@
 return {
   {
     "marko-cerovac/material.nvim",
-    enabled = false,
+    enabled = true,
     lazy = false,
     priority = 1000,
     config = function()
